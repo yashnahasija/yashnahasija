@@ -8,13 +8,13 @@
 
 <p align="center">
   <a href="mailto:yashnahasija@berkeley.edu">
-    <img src="https://img.shields.io/badge/Email-EA526F?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-FAD3FF?style=for-the-badge&logo=gmail&logoColor=2300B8" />
   </a>
   <a href="https://yashna.me" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0081A7?style=flat-square&logo=firefox-browser&logoColor=white" />
+    <img src="https://img.shields.io/badge/Website-2300B8?style=for-the-badge&logo=firefox&logoColor=FAD3FF" />
   </a>
   <a href="https://linkedin.com/in/yashnahasija" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-FAD3FF?style=for-the-badge&logo=linkedin&logoColor=2300B8" />
   </a>
 </p>
 
