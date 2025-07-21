@@ -21,7 +21,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Bungee+Inline&size=30&pause=1000&color=FAD3FF&background=FAD3FF00&center=true&vCenter=true&width=700&lines=ML+for+Hardware%2C+Healthcare%2C+and+Beyond" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Bungee+Inline&size=27&pause=1000&color=FAD3FF&background=FAD3FF00&center=true&vCenter=true&width=700&lines=ML+for+Hardware%2C+Healthcare%2C+and+Beyond" alt="Typing SVG" />
 </p>
 
 ---
