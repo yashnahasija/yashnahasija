@@ -79,15 +79,14 @@ Currently:
 
 - 🥇 **Grand Prize** – 2025 Berkeley AI Hackathon 
 - 🧠 **1st Place (Intl.)** – Conrad Innovation Challenge
-- 
 - 🤖 **Accenture STEM & AI Fellowship** 
 
 ---
 
 ## 📜 Patents
 
-- (Provisional Patent) ChipChat - AI-driven platform that instantly turns text and images into manufacturable chip designs
-- (Provisional Patent) Methane CH4NGE - wetland methane biofilter
+- (Provisional Patent - 71273888) ChipChat - AI-driven platform that instantly turns text and images into manufacturable chip designs
+- (Provisional Patent - 63352791) Methane CH4NGE - wetland methane biofilter
 
 ---
 
