@@ -81,7 +81,7 @@ Currently:
 
 ## 📜 Patents
 
-- (Provisional Patent) ChipChat - automated circuit and chip design pipeline
+- (Provisional Patent) ChipChat - AI-driven platform that instantly turns text and images into manufacturable chip designs
 - (Provisional Patent) Methane CH4NGE - wetland methane biofilter
 
 ---
