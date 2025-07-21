@@ -32,7 +32,7 @@ I'm obsessed with about building **real-world AI** systems across ML, healthcare
 
 Currently:
 
-- 🤖 Agentic Frameworks @ **Accenture**
+- 🤖 Agentic Frameworks intern @ **Accenture**
 - 💉 RL for anesthesia dosing @ **UCSF AI Innovation Lab**
 - 🧠 3D Imaging @ **Berkeley EECS**
 - 🔬 Currently building intelligent RL and transformer based systems for hardware design automation
