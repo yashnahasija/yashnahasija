@@ -1,111 +1,99 @@
-<h1 align="center">Hey there! I'm Yashna 👋</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&pause=1000&color=FF61C7&center=true&vCenter=true&width=800&lines=%F0%9F%92%AA+%F0%9D%97%9C%F0%9D%97%A2%F0%9D%97%9F%F0%9D%97%9C%F0%9D%97%9F+%F0%9D%97%A6%F0%9D%97%A2%F0%9D%97%A5%F0%9D%97%A5%F0%9D%97%98+%F0%9D%97%A0%F0%9D%97%94%F0%9D%97%9C%F0%9D%97%A8%F0%9D%97%9F+%F0%9F%92%AA" alt="Glitch Name" />
+</h1>
 
 <p align="center">
-  🧠 Machine Learning Researcher & Builder • 🎓 CS @ UC Berkeley • 🌉 Based in San Francisco  
+  🧠 ML Researcher & Builder • 🎓 Computer Science & Chemical Biology @ UC Berkeley • 🌉 San Francisco % Washington, DC
 </p>
 
 <p align="center">
   <a href="mailto:yashnahasija@berkeley.edu">
-    <img src="https://img.shields.io/badge/Email-FF6F61?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA526F?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://yashna.me" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0096C7?style=for-the-badge&logo=firefox&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-0081A7?style=flat-square&logo=firefox-browser&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/yashnahasija" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=1000&center=true&vCenter=true&width=700&lines=Turning+AI+into+Impactful+Systems.;ML+for+Health%2C+Hardware%2C+and+Discovery.;Let%E2%80%99s+build+real-world+intelligence+together!+💡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Building+intelligence+that+feels+real.;ML+for+health%2C+hardware%2C+and+beyond.;Let%27s+engineer+impact+with+AI.+%F0%9F%9A%80" alt="Typing Banner" />
 </p>
 
 ---
 
-## 🧬 About Me
+## 👋 Hey, I'm Yashna!
 
-Hi, I’m Yashna! I love building and researching at the edge of **machine learning**, **healthcare**, and **hardware**. Whether it's optimizing anesthesia in real-time using reinforcement learning or designing a platform that turns **natural language into Verilog and chip layouts**, I’m all about **creating real-world AI**.
+I'm obsessed with about building **real-world AI** systems across ML, healthcare, hardware, and embedded tech. Love reading and movies - here's a bit more about my research and academic work (check out my website for a bit more):
 
-Right now, you’ll find me:
+Currently:
 
-- 🤖 Building agentic GenAI systems @ **Accenture**
-- 💉 Optimizing anesthesia dosing with RL @ **UCSF AI Innovation Lab**
-- 🧠 Reconstructing 3D tumor environments in real-time @ **Berkeley EECS**
-- 🧪 Exploring signal processing in embedded imaging systems
-
----
-
-## 🔬 Current Research
-
-- **Anesthesia RL Agent** → Learns to dose better than physicians in 95% of UCSF surgical data 💊  
-- **LLM Pipelines for Healthcare + Finance** → Fine-tuning, automation & agent workflows 🧾  
-- **3D CNNs for Cancer Imaging** → Microsensor fusion & surgical reconstruction ⚙️  
-- **FluorNet** → AI-powered lensless fluorescence imaging in constrained hardware 📸  
-- **ChipChat** → Multimodal platform for real-time natural language → Verilog + GDSII ✨  
+- 🤖 Agentic Frameworks @ **Accenture**
+- 💉 RL for anesthesia dosing @ **UCSF AI Innovation Lab**
+- 🧠 3D Imaging @ **Berkeley EECS**
+- 🔬 Currently building intelligent RL and transformer based systems for hardware design automation
 
 ---
 
-## 🛠️ Tech Stack
+## 🔬 Research Highlights
+
+- **RL for Anesthesia** → UCSF AI Clinical Innovation Lab, advancing AI to support surgeons, clinicians, and anesthesiologists 💊   
+- **3D Tumor Imaging** → Depth-based 3D image reconstruction with microsensors 🧠
+- **Deep Learning for Lung Abnormality** → UCSF Center for Intelligent Imaging, developing ML architectures for lung disease diagnostics
+
+---
+
+## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" title="PyTorch" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" title="OpenCV" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-learn" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" title="Flask" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" title="PyTorch" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" title="scikit-learn" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" title="OpenCV" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" title="Flask" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" width="45"/>
 </p>
 
 <p align="center">
-  <b>ML Specialties:</b> Reinforcement Learning · Computer Vision · Generative AI · Signal Processing · Agentic AI  
+  <b>Specialties:</b> Reinforcement Learning • Computer Vision • Wearables • Signal Processing • Generative AI • Agentic Systems  
 </p>
 
 ---
 
-## 🚀 Selected Projects
+## 🏆 Awards and Honors
 
-| 💡 Project | 🔍 Description |
-|-----------|----------------|
-| **ChipChat** | 💬🧠 Converts natural language/image input into Verilog, schematics & GDSII chip layouts in real time. <br/>🏆 Grand Prize – Berkeley AI Hackathon |
-| **FluorNet** | 🔬 Neural pipeline for reconstructing multicolor fluorescence images from lensless optics in implantables. <br/>📈 Optimized in Fourier domain |
-| **Anesthesia RL** | 🩺 Trained reinforcement learning agents to dynamically dose anesthesia based on patient vitals, outperforming clinicians |
-| **Tumor Imaging CNNs** | 🧠 Built deep learning models for real-time 3D reconstruction of surgical tumor environments using microsensor data |
+- 🥇 **Grand Prize** – 2025 Berkeley AI Hackathon 
+- 🧠 **1st Place (Intl.)** – Conrad Innovation Challenge
+- 
+- 🤖 **Accenture STEM & AI Fellowship** 
 
 ---
 
-## 🏅 Honors & Awards
+## 📜 Patents
 
-- 🥇 **Grand Prize** – Berkeley AI Hackathon (2025)
-- 🧠 **1st Place International** – Conrad Innovation Challenge
-- 🤖 **Accenture AI/STEM Fellowship** – GenAI & applied ML intern cohort
-- ☁️ **AWS Certified** – AI Practitioner & Cloud Practitioner
+- (Provisional Patent) ChipChat - automated circuit and chip design pipeline
+- (Provisional Patent) Methane CH4NGE - wetland methane biofilter
 
 ---
 
-## 📜 Certifications
-
-- 📚 Machine Learning Specialization – DeepLearning.AI  
-- ☁️ AWS AI & Cloud Practitioner  
-- 📈 Advanced Signal Processing (UC Berkeley Extension)
-
----
-
-## 📬 Let’s Connect
-
-I'm always open to **collaborations**, **research**, or just nerding out about ML in medicine, chip design, or embedded AI systems.
+## 📬 Get In Touch
 
 <p align="center">
   <a href="mailto:yashnahasija@berkeley.edu">
-    <img src="https://img.shields.io/badge/Say%20Hi-FF6F61?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Say%20Hi-EA526F?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://yashna.me">
-    <img src="https://img.shields.io/badge/Portfolio-00A8E8?style=for-the-badge&logo=firefox&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-00A8E8?style=for-the-badge&logo=firefox-browser&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/yashnahasija">
     <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -114,6 +102,4 @@ I'm always open to **collaborations**, **research**, or just nerding out about M
 
 ---
 
-<p align="center">
-✨ Turning machine learning into meaningful, measurable impact ✨  
-</p>
+<p align="center"><i>✨ Let’s build intelligence that actually matters ✨</i></p>
