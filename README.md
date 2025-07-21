@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  🧠 ML Researcher & Builder • 🎓 Computer Science & Chemical Biology @ UC Berkeley • 🌉 San Francisco % Washington, DC
+  🧠 ML Researcher & Builder • 🎓 Computer Science & Chemical Biology @ UC Berkeley • 🌉 San Francisco & Washington, DC
 </p>
 
 <p align="center">
