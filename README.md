@@ -1,79 +1,119 @@
-<h1 align="center">Hi, I'm Yashna 👋</h1>
+<h1 align="center">Hey there! I'm Yashna 👋</h1>
 
 <p align="center">
-🌉 Based in San Francisco | 🎓 CS @ UC Berkeley | 🧠 ML Researcher & Engineer<br>
-<a href="mailto:yashnahasija@berkeley.edu">📫 yashnahasija@berkeley.edu</a> • <a href="https://yashna.me">🌐 yashna.me</a>
+  🧠 Machine Learning Researcher & Builder • 🎓 CS @ UC Berkeley • 🌉 Based in San Francisco  
+</p>
+
+<p align="center">
+  <a href="mailto:yashnahasija@berkeley.edu">
+    <img src="https://img.shields.io/badge/Email-FF6F61?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://yashna.me" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0096C7?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/yashnahasija" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 👩‍💻 About Me
-
-I'm a machine learning researcher and developer passionate about solving real-world problems at the intersection of AI, healthcare, and hardware. Currently at UC Berkeley, I bring a multidisciplinary background in computer science, chemical biology, and mathematics to build intelligent systems with practical impact.
-
-My experience spans:
-
-- 🧠 Applied ML research in medicine (UCSF, Anwar Lab)
-- 🏥 Building GenAI agentic pipelines for clinical + financial domains (Accenture x NVIDIA)
-- 🔬 Signal processing and neural imaging pipelines for implantable biomedical devices
-- ⚙️ AI-first EDA tools for chip design (ChipChat - Hackathon Winner + patent-pending)
-
-I love combining deep tech with systems-level thinking to build tools that push boundaries—from reinforcement learning for anesthesia dosing, to CNNs for 3D tumor reconstruction, to Verilog-generating LLMs.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=1000&center=true&vCenter=true&width=700&lines=Turning+AI+into+Impactful+Systems.;ML+for+Health%2C+Hardware%2C+and+Discovery.;Let%E2%80%99s+build+real-world+intelligence+together!+💡" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🧪 Current Research
+## 🧬 About Me
 
-- **Anesthesia RL System** – Reinforcement learning agent trained on patient vitals to optimize anesthesia dosage in real-time (UCSF AI Lab). Outperforms physician baselines in 95% of test cases.
-- **Real-Time Tumor Imaging** – Developing 3D CNN architectures and optical sensor fusion methods for intraoperative cancer environment mapping (Prof. Mekhail Anwar's Lab @ Berkeley EECS).
-- **GenAI Agents @ Accenture** – Creating scalable LLM pipelines for claims analysis and clinical support tools, optimizing healthcare and finance workflows in collaboration with NVIDIA.
+Hi, I’m Yashna! I love building and researching at the edge of **machine learning**, **healthcare**, and **hardware**. Whether it's optimizing anesthesia in real-time using reinforcement learning or designing a platform that turns **natural language into Verilog and chip layouts**, I’m all about **creating real-world AI**.
 
----
+Right now, you’ll find me:
 
-## 🏆 Selected Projects
-
-### 🔧 ChipChat – Real-time AI Chip Designer
-> Natural language → Verilog, schematics, & GDSII in seconds  
-🧠 Multimodal model for EDA  
-🏆 *Grand Prize – Berkeley AI Hackathon*
-
-### 🔬 FluorNet – Neural Imaging for Implantables  
-> Deep learning pipeline to reconstruct high-res fluorescence images from phase-coded optical signals  
-📈 Optimized for Fourier-domain simulation  
-💡 Biomedical applications in compact imaging hardware
+- 🤖 Building agentic GenAI systems @ **Accenture x NVIDIA**
+- 💉 Optimizing anesthesia dosing with RL @ **UCSF AI Innovation Lab**
+- 🧠 Reconstructing 3D tumor environments in real-time @ **Berkeley EECS**
+- 🧪 Exploring signal processing in embedded imaging systems
 
 ---
 
-## 🛠️ Tech Toolbox
+## 🔬 Current Research
 
-**Languages & Frameworks**:  
-Python, Java, PyTorch, TensorFlow, Scikit-learn, OpenCV, NumPy, Flask, Docker
-
-**Specialties**:  
-Reinforcement Learning, Computer Vision, NLP, Generative AI, Signal Processing, Optimization, Agentic AI
-
-**Cloud & Tools**:  
-AWS, REST APIs, Simulation Environments, Biomedical Imaging, GDSII Design, Verilog
+- **Anesthesia RL Agent** → Learns to dose better than physicians in 95% of UCSF surgical data 💊  
+- **LLM Pipelines for Healthcare + Finance** → Fine-tuning, automation & agent workflows 🧾  
+- **3D CNNs for Cancer Imaging** → Microsensor fusion & surgical reconstruction ⚙️  
+- **FluorNet** → AI-powered lensless fluorescence imaging in constrained hardware 📸  
+- **ChipChat** → Multimodal platform for real-time natural language → Verilog + GDSII ✨  
 
 ---
 
-## 📚 Honors & Certifications
+## 🛠️ Tech Stack
 
-- 🏅 *Grand Prize*, Berkeley AI Hackathon (2025)
-- 🏆 *1st Place*, Conrad Innovation Challenge (Intl. Winner)
-- 🎓 *AWS Certified AI & Cloud Practitioner*
-- 🎓 *Machine Learning Specialization – DeepLearning.AI*
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" title="PyTorch" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" title="OpenCV" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-learn" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" title="Flask" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" width="50"/>
+</p>
+
+<p align="center">
+  <b>ML Specialties:</b> Reinforcement Learning · Computer Vision · Generative AI · Signal Processing · Agentic AI  
+</p>
 
 ---
 
-## 📬 Let's Connect!
+## 🚀 Selected Projects
 
-I'm always excited to talk about research, collaboration, or wild moonshot ideas. Reach out if you’d like to build, learn, or solve something together.
+| 💡 Project | 🔍 Description |
+|-----------|----------------|
+| **ChipChat** | 💬🧠 Converts natural language/image input into Verilog, schematics & GDSII chip layouts in real time. <br/>🏆 Grand Prize – Berkeley AI Hackathon |
+| **FluorNet** | 🔬 Neural pipeline for reconstructing multicolor fluorescence images from lensless optics in implantables. <br/>📈 Optimized in Fourier domain |
+| **Anesthesia RL** | 🩺 Trained reinforcement learning agents to dynamically dose anesthesia based on patient vitals, outperforming clinicians |
+| **Tumor Imaging CNNs** | 🧠 Built deep learning models for real-time 3D reconstruction of surgical tumor environments using microsensor data |
 
-<a href="mailto:yashnahasija@berkeley.edu">📧 Email Me</a> | <a href="https://yashna.me">🌐 yashna.me</a> | <a href="https://www.linkedin.com/in/yashnahasija/">💼 LinkedIn</a>
+---
+
+## 🏅 Honors & Awards
+
+- 🥇 **Grand Prize** – Berkeley AI Hackathon (2025)
+- 🧠 **1st Place International** – Conrad Innovation Challenge
+- 🤖 **Accenture AI/STEM Fellowship** – GenAI & applied ML intern cohort
+- ☁️ **AWS Certified** – AI Practitioner & Cloud Practitioner
+
+---
+
+## 📜 Certifications
+
+- 📚 Machine Learning Specialization – DeepLearning.AI  
+- ☁️ AWS AI & Cloud Practitioner  
+- 📈 Advanced Signal Processing (UC Berkeley Extension)
+
+---
+
+## 📬 Let’s Connect
+
+I'm always open to **collaborations**, **research**, or just nerding out about ML in medicine, chip design, or embedded AI systems.
+
+<p align="center">
+  <a href="mailto:yashnahasija@berkeley.edu">
+    <img src="https://img.shields.io/badge/Say%20Hi-FF6F61?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://yashna.me">
+    <img src="https://img.shields.io/badge/Portfolio-00A8E8?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/yashnahasija">
+    <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 <p align="center">
-✨ Building real-world intelligence, one model at a time ✨
+✨ Turning machine learning into meaningful, measurable impact ✨  
 </p>
