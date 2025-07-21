@@ -86,20 +86,5 @@ Currently:
 
 ---
 
-## 📬 Get In Touch
 
-<p align="center">
-  <a href="mailto:yashnahasija@berkeley.edu">
-    <img src="https://img.shields.io/badge/Say%20Hi-EA526F?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://yashna.me">
-    <img src="https://img.shields.io/badge/Portfolio-00A8E8?style=for-the-badge&logo=firefox-browser&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/yashnahasija">
-    <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center"><i>✨ Let’s build intelligence that actually matters ✨</i></p>
+<p align="center"><i>✨ Always up for meeting new people and talking about interesting ideas. Reach out anytime! (I'm chronically online 🫥) ✨</i></p>
