@@ -30,7 +30,7 @@ Hi, I’m Yashna! I love building and researching at the edge of **machine learn
 
 Right now, you’ll find me:
 
-- 🤖 Building agentic GenAI systems @ **Accenture x NVIDIA**
+- 🤖 Building agentic GenAI systems @ **Accenture**
 - 💉 Optimizing anesthesia dosing with RL @ **UCSF AI Innovation Lab**
 - 🧠 Reconstructing 3D tumor environments in real-time @ **Berkeley EECS**
 - 🧪 Exploring signal processing in embedded imaging systems
