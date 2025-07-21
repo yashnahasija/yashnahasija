@@ -28,7 +28,7 @@
 
 ## 👋 Hey, I'm Yashna!
 
-I'm obsessed with about building **real-world AI** systems across ML, healthcare, hardware, and embedded tech. Love reading and movies - here's a bit more about my research and academic work (check out my website for a bit more):
+I'm obsessed with developing systems across ML, healthcare, hardware, & embedded tech and building algorithms. Love reading and movies - here's a bit more about my research, academic, and creative work (check out my website for more):
 
 Currently:
 
