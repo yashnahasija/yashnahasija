@@ -1,5 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&pause=1000&color=FF61C7&center=true&vCenter=true&width=800&lines=%F0%9F%92%AA+%F0%9D%97%9C%F0%9D%97%A2%F0%9D%97%9F%F0%9D%97%9C%F0%9D%97%9F+%F0%9D%97%A6%F0%9D%97%A2%F0%9D%97%A5%F0%9D%97%A5%F0%9D%97%98+%F0%9D%97%A0%F0%9D%97%94%F0%9D%97%9C%F0%9D%97%A8%F0%9D%97%9F+%F0%9F%92%AA" alt="Glitch Name" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Bungee+Shade&size=33&pause=1000&color=2300B8&background=FAD3FF&center=true&vCenter=true&width=435&lines=Yashna+Hasija" alt="Typing SVG" />
+  </a>
 </h1>
 
 <p align="center">
