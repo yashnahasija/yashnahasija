@@ -1,7 +1,5 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Bungee+Shade&size=33&pause=1000&color=2300B8&background=FAD3FF&center=true&vCenter=true&width=435&lines=Yashna+Hasija" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Bungee+Shade&size=33&pause=1000&color=2300B8&background=FAD3FF&center=true&vCenter=true&width=435&lines=Yashna+Hasija" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -23,7 +21,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=800&lines=Building+intelligence+that+feels+real.;ML+for+health%2C+hardware%2C+and+beyond.;Let%27s+engineer+impact+with+AI.+%F0%9F%9A%80" alt="Typing Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Bungee+Inline&size=15&pause=1000&color=FAD3FF&background=FAD3FF00&center=true&vCenter=true&width=435&lines=ML+for+Hardware%2C+Healthcare%2C+and+Beyond" alt="Typing SVG" />
 </p>
 
 ---
