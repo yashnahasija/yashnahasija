@@ -65,7 +65,7 @@ Currently:
 </p>
 
 <p align="center">
-  <b>Specialties:</b> Reinforcement Learning • Computer Vision • Wearables • Signal Processing • Generative AI • Agentic Systems  
+  <b>Specialties:</b> Reinforcement Learning • Computer Vision • Wearables • Signal Processing • Chemical Synthesis • Drug Design • Generative AI • Agentic Frameworks  
 </p>
 
 ---
