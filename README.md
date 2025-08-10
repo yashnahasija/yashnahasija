@@ -32,14 +32,14 @@ I'm obsessed with developing systems across ML, healthcare, hardware, & embedded
 
 Currently:
 
-- 🤖 ML and Data intern @ **Accenture**
-- 💉 RL for anesthesia dosing @ **UCSF AI Innovation Lab**
-- 🧠 3D Imaging @ **Berkeley EECS**
-- 🔬 Currently building intelligent RL and transformer based systems for hardware design automation
+- ML and Data intern @ **Accenture**
+- RL for anesthesia dosing @ **UCSF AI Innovation Lab**
+- 3D Imaging @ **Berkeley EECS**
+- Currently building intelligent RL and transformer based systems for hardware design automation
 
 ---
 
-## 🔬 Research Highlights
+## Research Highlights
 
 - **RL for Anesthesia** → UCSF AI Clinical Innovation Lab, advancing AI to support surgeons, clinicians, and anesthesiologists 💊   
 - **3D Tumor Imaging** → Depth-based 3D image reconstruction with microsensors 🧠
@@ -47,7 +47,7 @@ Currently:
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <p align="center">
   <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="45"/></a>
@@ -75,15 +75,15 @@ Currently:
 
 ---
 
-## 🏆 Awards and Honors
+## Awards and Honors
 
-- 🥇 **Grand Prize** – 2025 Berkeley AI Hackathon 
-- 🧠 **1st Place (Intl.)** – Conrad Innovation Challenge
-- 🤖 **Accenture STEM & AI Fellowship** 
+- **Grand Prize** – 2025 Berkeley AI Hackathon 
+- **1st Place (Intl.)** – Conrad Innovation Challenge
+- **Accenture STEM & AI Fellowship**
 
 ---
 
-## 📜 Patents
+## Patents
 
 - (Provisional Patent - 71273888) ChipChat - AI-driven platform that instantly turns text and images into manufacturable chip designs
 - (Provisional Patent - 63352791) Methane CH4NGE - wetland methane biofilter
