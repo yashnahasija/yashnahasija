@@ -75,7 +75,7 @@ Currently:
 
 ---
 
-## Awards and Honors
+## Accolades
 
 - **Grand Prize** – 2025 Berkeley AI Hackathon 
 - **1st Place (Intl.)** – Conrad Innovation Challenge
