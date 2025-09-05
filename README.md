@@ -35,7 +35,7 @@ Currently:
 - ML and Data intern @ **Accenture**
 - RL for anesthesia dosing @ **UCSF AI Innovation Lab**
 - 3D Imaging @ **Berkeley EECS**
-- Currently building intelligent RL and transformer based systems for hardware design automation
+- Building intelligent RL and transformer based systems for hardware design automation
 
 ---
 
