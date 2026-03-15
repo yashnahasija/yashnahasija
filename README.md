@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik&size=41&pause=900&color=6DD496&width=432&height=57&lines=Yashna+Hasija)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Broken+Fax&size=41&pause=900&color=6DD496&center=true&width=432&height=57&lines=Yashna+Hasija)](https://git.io/typing-svg)
 
 <a href="mailto:yashnahasija@berkeley.edu"><img src="card-em.svg" width="160" height="90" /></a><a href="https://yashna.me"><img src="card-ws.svg" width="160" height="90" /></a><a href="https://linkedin.com/in/yashnahasija"><img src="card-ln.svg" width="160" height="90" /></a>
 
