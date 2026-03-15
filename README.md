@@ -1,6 +1,32 @@
 <div align="center">
-  <img src="readme-card.svg" alt="Yashna Hasija" width="720" />
+
+# Yashna Hasija
+
+<a href="mailto:yashnahasija@berkeley.edu"><img src="card-em.svg" width="160" height="90" /></a><a href="https://yashna.me"><img src="card-ws.svg" width="160" height="90" /></a><a href="https://linkedin.com/in/yashnahasija"><img src="card-ln.svg" width="160" height="90" /></a>
+
 </div>
+
+---
+
+**\[about\]** &nbsp; ML researcher and builder. From DC, based in SF.
+
+**\[studying\]** &nbsp; Computer Science, Chemical Biology & Aerospace Engineering at UC Berkeley.
+
+**\[currently\]** &nbsp; 3D imaging & tumor sensing hardware at [The Anwar Lab](https://www.anwarlab.org/). Incoming research intern at [Microsoft Research](https://www.microsoft.com/en-us/research/) this summer.
+
+**\[previously\]** &nbsp; ML & Data Intern at [Accenture's AI Refinery](https://www.accenture.com/us-en/services/applied-intelligence/ai-refinery). Deep Learning researcher at [UCSF](https://anesthesia.ucsf.edu/research-groups/ai-clinical-innovation-lab).
+
+**\[interested in\]** &nbsp; spacetech, reinforcement learning, proteomics, wearables, drug design, computer vision, agentic systems, movies on the silver screen.
+
+**\[favorites\]** &nbsp; Whiplash · 85% dark chocolate · Bismuth · Megaminx
+
+**\[elsewhere\]** &nbsp; Most work is private. More at [yashna.me](https://yashna.me) — or just reach out.
+
+---
+
 <div align="center">
-yashnahasija@berkeley.edu  ·  yashna.me  ·  linkedin  ·  The Anwar Lab  ·  Microsoft Research  ·  UCSF
+
+Always up for meeting new people and talking about interesting ideas.<br>
+I'm chronically online — [say hi anytime](mailto:yashnahasija@berkeley.edu).
+
 </div>
