@@ -14,7 +14,7 @@
 
 🔭 **\[currently\]** &nbsp; 3D imaging & tumor sensing hardware at [The Anwar Lab](https://www.anwarlab.org/). Incoming research intern at [Microsoft Research](https://www.microsoft.com/en-us/research/) this summer.
 
-🪐 **\[previously\]** &nbsp; ML & Data Intern at [Accenture's AI Refinery](https://www.accenture.com/us-en/services/applied-intelligence/ai-refinery). Deep Learning researcher at [UCSF](https://anesthesia.ucsf.edu/research-groups/ai-clinical-innovation-lab).
+🪐 **\[previously\]** &nbsp; ML & Data Intern at [Accenture's AI Refinery](https://www.accenture.com/us-en/services/data-ai/ai-refinery). Deep Learning researcher at [UCSF](https://anesthesia.ucsf.edu/research-groups/ai-clinical-innovation-lab).
 
 🌌 **\[interested in\]** &nbsp; spacetech, reinforcement learning, proteomics, wearables, drug design, computer vision, agentic systems, movies on the silver screen.
 
