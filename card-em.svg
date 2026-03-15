@@ -1,0 +1,27 @@
+<svg fill="none" viewBox="0 0 160 90" width="160" height="90" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        * { margin:0; padding:0; box-sizing:border-box; }
+        .c { width:160px; height:90px; display:flex; flex-direction:column; align-items:center; justify-content:center; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background:#d6ede1; border: 2px solid #1a6e3c; }
+        .num { font-size:10px; font-family:monospace; color:#2a6e42; }
+        .sym { font-size:28px; font-weight:700; color:#145c30; line-height:1.1; }
+        .lbl { font-size:11px; color:#2a6e42; }
+        .val { font-size:11px; color:#2a6e42; }
+        @media (prefers-color-scheme: dark) {
+          .c { background:#0d1f14; border-color:#3d8f5f; }
+          .num { color:#80aa90; }
+          .sym { color:#6dd496; }
+          .lbl { color:#80aa90; }
+          .val { color:#80aa90; }
+        }
+      </style>
+      <div class="c">
+        <span class="num">01</span>
+        <span class="sym">Em</span>
+        <span class="lbl">Email</span>
+        <span class="val">yashna@</span>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
