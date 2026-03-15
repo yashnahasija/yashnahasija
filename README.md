@@ -8,7 +8,7 @@
 
 ---
 
-🌍 **\[about\]** &nbsp; ML researcher and builder. From DC, based in SF.
+🌍 **\[about\]** &nbsp; ML researcher and builder. From Virginia, currently based in The Bay 🌉.
 
 🛰️ **\[studying\]** &nbsp; Computer Science, Chemical Biology & Aerospace Engineering at UC Berkeley.
 
