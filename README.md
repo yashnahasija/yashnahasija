@@ -1,6 +1,6 @@
 <div align="center">
 
-# Yashna Hasija
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik&size=41&pause=900&color=6DD496&width=432&height=57&lines=Yashna+Hasija)](https://git.io/typing-svg)
 
 <a href="mailto:yashnahasija@berkeley.edu"><img src="card-em.svg" width="160" height="90" /></a><a href="https://yashna.me"><img src="card-ws.svg" width="160" height="90" /></a><a href="https://linkedin.com/in/yashnahasija"><img src="card-ln.svg" width="160" height="90" /></a>
 
@@ -8,19 +8,19 @@
 
 ---
 
-**\[about\]** &nbsp; ML researcher and builder. From DC, based in SF.
+🌍 **\[about\]** &nbsp; ML researcher and builder. From DC, based in SF.
 
-**\[studying\]** &nbsp; Computer Science, Chemical Biology & Aerospace Engineering at UC Berkeley.
+🛰️ **\[studying\]** &nbsp; Computer Science, Chemical Biology & Aerospace Engineering at UC Berkeley.
 
-**\[currently\]** &nbsp; 3D imaging & tumor sensing hardware at [The Anwar Lab](https://www.anwarlab.org/). Incoming research intern at [Microsoft Research](https://www.microsoft.com/en-us/research/) this summer.
+🔭 **\[currently\]** &nbsp; 3D imaging & tumor sensing hardware at [The Anwar Lab](https://www.anwarlab.org/). Incoming research intern at [Microsoft Research](https://www.microsoft.com/en-us/research/) this summer.
 
-**\[previously\]** &nbsp; ML & Data Intern at [Accenture's AI Refinery](https://www.accenture.com/us-en/services/applied-intelligence/ai-refinery). Deep Learning researcher at [UCSF](https://anesthesia.ucsf.edu/research-groups/ai-clinical-innovation-lab).
+🪐 **\[previously\]** &nbsp; ML & Data Intern at [Accenture's AI Refinery](https://www.accenture.com/us-en/services/applied-intelligence/ai-refinery). Deep Learning researcher at [UCSF](https://anesthesia.ucsf.edu/research-groups/ai-clinical-innovation-lab).
 
-**\[interested in\]** &nbsp; spacetech, reinforcement learning, proteomics, wearables, drug design, computer vision, agentic systems, movies on the silver screen.
+🌌 **\[interested in\]** &nbsp; spacetech, reinforcement learning, proteomics, wearables, drug design, computer vision, agentic systems, movies on the silver screen.
 
-**\[favorites\]** &nbsp; Whiplash · 85% dark chocolate · Bismuth · Megaminx
+⭐ **\[favorites\]** &nbsp; Whiplash · 85% dark chocolate · Bismuth · Megaminx
 
-**\[elsewhere\]** &nbsp; Most work is private. More at [yashna.me](https://yashna.me) — or just reach out.
+🚀 **\[elsewhere\]** &nbsp; Most work is private. More at [yashna.me](https://yashna.me) — or just reach out.
 
 ---
 
