@@ -16,7 +16,7 @@
 
 🪐 **\[previously\]** &nbsp; ML & Data Intern at [Accenture's AI Refinery](https://www.accenture.com/us-en/services/data-ai/ai-refinery). Deep Learning researcher at [UCSF](https://anesthesia.ucsf.edu/research-groups/ai-clinical-innovation-lab).
 
-🌌 **\[interested in\]** &nbsp; spacetech, reinforcement learning, proteomics, wearables, drug design, computer vision, agentic systems, movies on the silver screen.
+🌌 **\[interested in\]** &nbsp; spacetech, reinforcement learning, proteomics, wearables, generative drug design, computer vision, movies on the silver screen.
 
 ⭐ **\[favorites\]** &nbsp; Whiplash · 85% dark chocolate · Bismuth · Megaminx
 
