@@ -18,7 +18,7 @@
 
 🌌 **\[interested in\]** &nbsp; spacetech, reinforcement learning, proteomics, wearables, generative drug design, computer vision, movies on the silver screen.
 
-⭐ **\[favorites\]** &nbsp; Whiplash · 85% dark chocolate · Bismuth · Megaminx
+⭐ **\[favorites\]** &nbsp; Whiplash · 81% dark chocolate · Bismuth · Megaminx
 
 🚀 **\[elsewhere\]** &nbsp; Most work is private. More at [yashna.me](https://yashna.me) — or just reach out.
 
